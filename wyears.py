@@ -18,5 +18,4 @@ elif año_a == año_c -1 :
     print("Para llegar a", año_c, "hace falta 1 año") 
 else:
     print("Has intruducido el mismo año que el actual")
-
-          
+input("oprime cualquier tecla para continuar")
